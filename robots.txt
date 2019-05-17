@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iesheetahs.mpramon.com/sitemap.xml
